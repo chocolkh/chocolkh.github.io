@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Github blog day 1
+title : Github blog 1
 category : [githubblog]
 ---
 
@@ -12,5 +12,6 @@ In constrast to the Github's general purpose, I will not work with others for th
 
 ## Own traking is necessary. 
 I know how to write code. I used to use fortran, C, matlab and python for image processing and numerical simulation. However, everytime I used those program, I have some issues to track or follow my own work. Therefore I need some method to track and monitor the progress. I need some tools like scrivener. Also, I will be using multiple computers at work, at home and at somewhere else. So, I need some clolud based storages to access my code. 
+
 
 
