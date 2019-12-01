@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Github blog day 1
-categories:[githubblog]
+layout : post
+title : Github blog day 1
+category : [githubblog]
 ---
 
 # Github 
