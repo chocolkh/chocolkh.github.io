@@ -70,7 +70,7 @@ social-network-links:
   rss: true
   email: "lee.kyungheon@gmail.com"
 #  facebook: deanattali
-  github: dhodolkh
+  github: chocolkh
 #  twitter: daattali
 #  reddit: yourname
   linkedin: kyungheonlee
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Klee.works"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "chocolkh.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
