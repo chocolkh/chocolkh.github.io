@@ -1,6 +1,7 @@
 ---
 layout : post
-title : Github blog 1
+title : Github blogsetup
+subtitle : 1
 category : [githubblog]
 ---
 
