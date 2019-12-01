@@ -1,7 +1,7 @@
 ---
 layout : post
-title : Github blogsetup
-subtitle : 1
+title : Github blog
+subtitle : 1 - Prologue
 category : [githubblog]
 ---
 
