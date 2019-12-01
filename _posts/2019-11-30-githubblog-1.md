@@ -13,5 +13,13 @@ In constrast to the Github's general purpose, I will not work with others for th
 ## Own traking is necessary. 
 I know how to write code. I used to use fortran, C, matlab and python for image processing and numerical simulation. However, everytime I used those program, I have some issues to track or follow my own work. Therefore I need some method to track and monitor the progress. I need some tools like scrivener. Also, I will be using multiple computers at work, at home and at somewhere else. So, I need some clolud based storages to access my code. 
 
+### _Useful links for Github Blog_
 
+[brandilab](http://labs.brandi.co.kr/2018/05/14/chunbs.html)
+
+[seoklee](https://github.com/SeokLeeUS/seokleeus.github.io)
+
+[JustinJames](https://digitaldrummerj.me/blogging-on-github-part-5-adding-a-category-page/)
+
+[Gorails](https://gorails.com/setup/osx/10.12-sierra)
 
